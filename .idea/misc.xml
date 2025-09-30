@@ -4,7 +4,11 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/Algoritmos/PasswordValidations/pom.xml" />
+        <option value="$PROJECT_DIR$/Tests_Modelo/HelloSelenium/pom.xml" />
+        <option value="$PROJECT_DIR$/Tests_Modelo/AB_CartTest_01/pom.xml" />
+        <option value="$PROJECT_DIR$/Tests_Modelo/Teste_Automacao_Login/pom.xml" />
+        <option value="$PROJECT_DIR$/ClientValidation/pom.xml" />
       </list>
     </option>
   </component>

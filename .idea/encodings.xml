@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Algoritmos/ClientValidation/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Algoritmos/ClientValidation/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Algoritmos/PasswordValidations/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Algoritmos/PasswordValidations/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Tests_Modelo/AB_CartTest_01/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Tests_Modelo/AB_CartTest_01/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Tests_Modelo/Teste_Automacao_Login/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Tests_Modelo/Teste_Automacao_Login/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
